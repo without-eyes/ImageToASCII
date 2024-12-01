@@ -1,0 +1,6 @@
+#ifndef IMAGETOASCII_LIBIMGTOASCII_H
+#define IMAGETOASCII_LIBIMGTOASCII_H
+
+void readBMP(const char *filename);
+
+#endif //IMAGETOASCII_LIBIMGTOASCII_H
